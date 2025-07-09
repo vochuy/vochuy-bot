@@ -4,7 +4,7 @@ const qrcode = require('qrcode-terminal');
 
 // Konfigurasi
 const config = {
-    AI_API_KEY: 'YOUR_AI_API_KEY',
+    AI_API_KEY: 'https://luminai.my.id/',
     AI_ENDPOINT: 'https://api.openai.com/v1/chat/completions', // Ganti dengan endpoint AI Anda
     SHOP_NAME: 'Vochuy',
     ADMIN_NUMBER: '081227108559' // Nomor admin untuk notifikasi error
